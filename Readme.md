@@ -5,3 +5,15 @@
 4. synchronized 获得锁--->等待，Lock锁不一定会等待
 5. synchronized 可重入锁，不可中断，非公平，Lock可以重入锁可以判断锁，可自定义是否公平
 6. synchronized 适合锁少量的代码同步问题，Lock锁反之
+
++ Lock 锁
++ PC 生产者和消费者问题
++ Lock8 8锁问题
++ unsafe 集合类不安全
++ callable
++ auxiliaryTools 常用辅助类
++ readWrite 读写锁
++ blockingQueue 阻塞队列
++ threadPool 线程池
++ forkJoin 拆分任务
++ future 异步回调

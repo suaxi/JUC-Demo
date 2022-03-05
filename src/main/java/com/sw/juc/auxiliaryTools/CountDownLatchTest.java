@@ -1,4 +1,4 @@
-package com.sw.juc.AuxiliaryTools;
+package com.sw.juc.auxiliaryTools;
 
 import java.util.concurrent.CountDownLatch;
 
